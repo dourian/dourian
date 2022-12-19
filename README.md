@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <!--
 **dourian/dourian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Built With
+* [![React][React.js]][React-url]
+* [![Java][Java][Java-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
