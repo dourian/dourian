@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 
 ### Repos private for privacy : )
 
-![Snake animation](https://github.com/dourian/dourian/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
