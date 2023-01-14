@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ### Repos private for privacy : )
 
-![Snake animation](https://github.com/dourian/dourian/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/dourian/dourian/raw/output/github-contribution-grid-snake.svg)
