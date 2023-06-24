@@ -11,10 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> -->
 
-``Hello, my name is Dorian.
+`Hello, my name is Dorian.
 
 I'm a computer science student at the University of Waterloo.
 
-I'm interested in learning more about the world of software, and hitting Gold 4 in [league](https://www.op.gg/summoners/na/Dourian).``
+I'm interested in learning more about the world of software, and hitting Gold 4 in [league](https://www.op.gg/summoners/na/Dourian).`
 
 ![](https://github.com/dourian/dourian/raw/output/github-contribution-grid-snake.svg)
