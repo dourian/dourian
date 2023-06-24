@@ -12,7 +12,7 @@
 </div> -->
 
 ```
-Hello, my name is Dorian.
+Hello, my name is Dorian. 👋🏻
 ```
 
 ![](https://github.com/dourian/dourian/raw/output/github-contribution-grid-snake.svg)
