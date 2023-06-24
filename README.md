@@ -13,10 +13,6 @@
 
 ```
 Hello, my name is Dorian.
-
-I'm a computer science student at the University of Waterloo.
-
-I'm interested in learning more about the world of software, and hitting Gold 4 in league.
 ```
 
 ![](https://github.com/dourian/dourian/raw/output/github-contribution-grid-snake.svg)
